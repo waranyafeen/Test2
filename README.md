@@ -13,3 +13,5 @@ kuy iq
 123456789
 
 mama
+
+just kill a man
