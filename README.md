@@ -20,3 +20,5 @@ B6400415 วรัญญา
 i want to be a programmer
 
 killl
+
+IQ
