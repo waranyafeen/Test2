@@ -8,4 +8,4 @@ Geminu forth
 
 เจมเจม โฟ้ดดฟ้ด
 
-kuy
+kuy iq
