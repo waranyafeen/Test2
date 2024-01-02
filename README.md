@@ -22,3 +22,7 @@ i want to be a programmer
 killl
 
 IQ
+
+12345
+
+feennnn
